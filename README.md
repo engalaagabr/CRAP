@@ -3,6 +3,7 @@
 ## Overview
 
 The **Credit Risk Assessment Platform (CRAP)** is a production-oriented machine learning system designed to support retail credit decisioning.  
+
 The project demonstrates how predictive models are integrated with business policy, governance, and deployment considerations in a realistic financial environment.
 
 Rather than focusing solely on model accuracy, this system emphasizes **decision transparency, policy control, reproducibility, and auditability**, reflecting how credit risk models are used in practice.
