@@ -11,9 +11,11 @@ Rather than focusing solely on model accuracy, this system emphasizes **decision
 ## Live Application
 
 Access the deployed **Credit Risk Assessment Platform** here:  **[CRAP Application](https://creditriskplatform.streamlit.app/)**
+
 ---
-## Project Demo
-[▶ Watch Project Demo](/outputs/creditrisk.mp4)
+## Production interface
+![](/outputs/Screenshot1.png)
+![](/outputs/Screenshot2.png)
 ---
 ## Project Scope
 
